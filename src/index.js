@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const rootEl = document.getElementById("app");
 rootEl.style.position = "relative";
 rootEl.style.width = "100%";
